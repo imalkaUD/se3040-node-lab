@@ -1,0 +1,19 @@
+{
+  "name": "se3040-node-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imalkaUD/se3040-node-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imalkaUD/se3040-node-lab/issues"
+  },
+  "homepage": "https://github.com/imalkaUD/se3040-node-lab#readme"
+}
